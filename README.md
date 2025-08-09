@@ -1,5 +1,5 @@
 # interactivegeo
-Interactive Geometry
+Interactive Geometry, a simple geometry app to study the usages of JSXGraph 
 
 #1 Clone, this repo, 
  
