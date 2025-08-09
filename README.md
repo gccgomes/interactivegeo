@@ -1,6 +1,10 @@
 # interactivegeo
 Interactive Geometry
 
-Clone, this repo, 
+#1 Clone, this repo, 
  
- Run pnpm install
+#2 pnpm install
+
+#3 pnpm dev ( if you use this code to develop )
+
+#4 pnpm build to build your own version
